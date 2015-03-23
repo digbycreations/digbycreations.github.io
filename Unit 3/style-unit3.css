@@ -1,0 +1,21 @@
+body{
+	background-color: #dbdcff;
+	color:#000000;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+
+h1{
+	font-size: 34px;
+}
+
+#company{
+	margin: 30px auto 30px auto;
+}
+
+#slogan{
+	font-style: italic;
+	font-size: 24px;
+	margin: 30px auto 30px auto;
+}
