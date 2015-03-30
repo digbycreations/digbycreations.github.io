@@ -1,0 +1,42 @@
+body{
+	background-color: #dbdcff;
+	color:#000000;
+/*	font-family: Arial, sans-serif;*/
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	text-align: center;
+}
+
+h1{
+	font-size: 50px;
+	font-family: 'Abril Fatface', cursive;
+
+}
+
+h2{
+	font-size: 1.3em;
+}
+
+ul{
+	list-style:none;
+	padding:0;
+}
+
+hr{
+	border: none;
+	height: 5px;
+	background: #000;
+	width: 500px;
+	margin: 30px auto;
+}
+
+#company{
+	margin: 30px auto 10px auto;
+}
+
+#slogan{
+/*	font-family: 'Cabin', sans-serif;
+*/	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	margin: 0px auto 50px auto;
+}
